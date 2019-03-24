@@ -2,18 +2,20 @@
 
 Just download the logo you like to use
 
-## SQUARE PNG
+## ICONS
 
-![image](logo/square-png.png)
+![image1](logo/one.ico)
 
-## ICO FORMAT
+![image2](logo/two.ico)
 
-![image](logo/icon.ico)
+![image2](logo/third.ico)
 
-## CIRCLE PNG
+![image3](logo/icon.ico)
 
-![image](logo/circle-png.png)
+## PNG IMAGES
 
-## STAMP LOGO
+![image4](logo/stamp-logo.png)
 
-![image](logo/stamp-logo.png)
+![image5](logo/circle-png.png)
+
+![image6](logo/square-png.png)
