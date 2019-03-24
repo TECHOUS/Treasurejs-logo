@@ -1,6 +1,6 @@
 # TREASURE JS LOGO
 
-Just download the logo you like to use
+Just choose and download your logo of desired size
 
 ## ICONS
 
@@ -10,12 +10,14 @@ Just download the logo you like to use
 
 ![image2](logo/third.ico)
 
-![image3](logo/icon.ico)
+![image3](logo/stamp.ico)
+
+![image4](logo/icon.ico)
 
 ## PNG IMAGES
 
-![image4](logo/stamp-logo.png)
+![image5](logo/stamp-logo.png)
 
-![image5](logo/circle-png.png)
+![image6](logo/circle-png.png)
 
-![image6](logo/square-png.png)
+![image7](logo/square-png.png)
