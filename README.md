@@ -1,23 +1,40 @@
 # TREASURE JS LOGO
 
-Just choose and download your logo of desired size
+This repository contains the logo for [treasure js repository on github](https://github.com/TechOUs/Treasure-js)
+
+## CONTRIBUTION
+
+Want to contribute to this logo repository see our [guidelines](CONTRIBUTING.md)
+
+## FORMATS AVAILABLE
+
+* .ico
+* .png
 
 ## ICONS
 
-![image1](logo/one.ico)
+Just choose and download your logo of desired size
 
-![image2](logo/two.ico)
+### ICO
 
-![image2](logo/third.ico)
+![image1](logo/ICO/one.ico)
 
-![image3](logo/stamp.ico)
+![image2](logo/ICO/two.ico)
 
-![image4](logo/icon.ico)
+![image2](logo/ICO/third.ico)
 
-## PNG IMAGES
+![image3](logo/ICO/stamp.ico)
 
-![image5](logo/stamp-logo.png)
+![image4](logo/ICO/icon.ico)
 
-![image6](logo/circle-png.png)
+### PNG
 
-![image7](logo/square-png.png)
+![image5](logo/PNG/stamp-logo.png)
+
+![image6](logo/PNG/circle-png.png)
+
+![image7](logo/PNG/square-png.png)
+
+### SVG
+
+see index.html
